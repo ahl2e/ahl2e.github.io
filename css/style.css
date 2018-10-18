@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -794,16 +794,21 @@ form label {
   color: #fff;
 }
 #gtco-features .feature-center .icon {
-  width: 90px;
-  height: 90px;
-  border: 1px solid rgba(255, 255, 255, 0.8);
-  background: #66D37E;
+  width: 50px;
+  height: 50px;
+  /* border: 1px solid rgba(255, 255, 255, 0.8);
+  background: #66D37E; */
 }
-#gtco-features .feature-center .icon i {
+#gtco-features .feature-center .icon img{
+  width: 125px;
+  height: 125px;
+}
+
+/* #gtco-features .feature-center .icon i {
   color: #fff;
   font-size: 40px;
   font-style: normal;
-}
+} */
 #gtco-features .feature-center h3 {
   font-weight: 400;
   color: #fff;
