@@ -852,6 +852,8 @@ form label {
   padding: 7em 0;
   width: 65%;
 }
+
+
 .flex-section .col-1 .text {
   padding-left: 40%;
   padding-right: 10%;
@@ -2100,6 +2102,19 @@ form label {
   .gtco-faq-list li h2 {
     font-size: 26px;
   }
+}
+
+.education-box {
+  display: flex;
+  flex-direction: column;
+}
+.education-box img {
+  /* height: 50px; */
+  width: 70px;
+}
+
+.col-1 li {
+  list-style: none;
 }
 
 .check-li {
