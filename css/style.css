@@ -2142,13 +2142,6 @@ form label {
   width: 25px;
 }
 
-/* #resume-click {
-  border: 1px solid white;
-  border-radius: 4px;
-  width: 27%;
-  color: white
-  margin: auto;
-} */
 #resume-link {
   border: 1px solid white;
   border-radius: 4px;
@@ -2158,8 +2151,12 @@ form label {
   font-size: 50px;
   padding: 5px;
 }
-#resume-click :hover{
+#resume-link :hover{
   cursor: pointer;
+  border: 1px solid grey;
+  border-radius: 4px;
+  color: grey;
+
 }
 
 /*# sourceMappingURL=style.css.map */
