@@ -2150,4 +2150,24 @@ form label {
   color: #66D37E;
 }
 
+/* #resume-click {
+  border: 1px solid white;
+  border-radius: 4px;
+  width: 27%;
+  color: white
+  margin: auto;
+} */
+#resume-link {
+  border: 1px solid white;
+  border-radius: 4px;
+  width: 27%;
+  color: white;
+  margin: auto;
+  font-size: 50px;
+  padding: 5px;
+}
+#resume-click :hover{
+  cursor: pointer;
+}
+
 /*# sourceMappingURL=style.css.map */
