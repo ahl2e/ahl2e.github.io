@@ -2130,24 +2130,16 @@ form label {
   list-style: none;
   line-height: 1.5;
   font-weight: 300;
+  font-size: 25px;
 }
-.check-li li:before {
-  font-family: 'icomoon';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  position: absolute;
-  left: 0;
-  to: .2em;
-  content: "\e116";
-  font-size: 26px;
-  color: #66D37E;
+
+.check-li i{
+  height: 40px;
+  width: 40px;
+}
+.check-li img{
+  height: 25px;
+  width: 25px;
 }
 
 /* #resume-click {
