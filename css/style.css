@@ -2156,7 +2156,9 @@ form label {
   border: 1px solid grey;
   border-radius: 4px;
   color: grey;
-
+}
+#story-list li{
+  list-style: disc;
 }
 
 /*# sourceMappingURL=style.css.map */
