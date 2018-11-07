@@ -2130,7 +2130,7 @@ form label {
   list-style: none;
   line-height: 1.5;
   font-weight: 300;
-  font-size: 25px;
+  font-size: 23px;
 }
 
 .check-li i{
@@ -2151,7 +2151,7 @@ form label {
   font-size: 50px;
   padding: 5px;
 }
-#resume-link :hover{
+#resume-link:hover{
   cursor: pointer;
   border: 1px solid grey;
   border-radius: 4px;
